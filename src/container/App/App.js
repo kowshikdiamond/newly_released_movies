@@ -6,7 +6,7 @@ import cdata from '../../../src/cdata';
 const App = () => {
   return (
     <>
-      <h1 className='heading_style'>List of top Netflix series in 2021</h1>
+      <h1 className='heading_style'>List of Newly Released Movies</h1>
       <Card
         imgSrc={cdata[0].imgSrc}
         title={cdata[0].title}
