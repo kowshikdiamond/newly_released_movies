@@ -101,8 +101,8 @@ img {
 
 .card__category {
 font-family: "Raleway",sans-serif;
-text-transform: lowercase;
-font-size:13px;
+text-transform: case;
+font-size:10px;
 letter-spacing:2px;
 font-weight: 500;
 color:#868686;
@@ -126,10 +126,10 @@ button {
     font-size: 13px;
     letter-spacing: 2px;
     font-weight: 500;
-    color:#868686;
+    color:#020202;
     background-color: #fff;
     outline:none;
-    border:1px solid black;
+    border:2px solid rgb(233, 10, 54);
     cursor:pointer
 
 }
